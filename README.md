@@ -96,7 +96,7 @@ Here's an overview of the project's file structure:
 
 ```
 ├── public
-│   └── index.html
+│   └── vite.svg
 ├── src
 │   ├── components
 │   │   ├── Navbar.js

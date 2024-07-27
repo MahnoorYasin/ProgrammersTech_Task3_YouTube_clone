@@ -19,8 +19,6 @@ Welcome to the YouTube Clone project! This project is an attempt to recreate the
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 

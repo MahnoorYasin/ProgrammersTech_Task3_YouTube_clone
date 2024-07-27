@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -101,14 +100,14 @@ Here's an overview of the project's file structure:
 ├── src
 │   ├── components
 │   │   ├── Navbar.js
-│   │   ├── SearchBar.js
-│   │   ├── VideoList.js
-│   │   ├── VideoItem.js
-│   │   └── VideoDetail.js
+│   │   ├── SideBar.js
+│   │   ├── Feed.js
+│   │   ├── Recommendation.js
+│   │   └── PlayVideo.js
 │   ├── pages
 │   │   ├── Home.js
-│   │   ├── VideoPlayer.js
-│   │   └── NotFound.js
+│   │   ├── Video.js
+│   │ 
 │   ├── App.js
 │   ├── index.js
 │   ├── App.css
@@ -119,9 +118,3 @@ Here's an overview of the project's file structure:
 ├── package.json
 └── vite.config.js
 ```
-
-### Key Directories
-
-- **`components`**: Contains reusable UI components such as `Navbar`, `SearchBar`, and `VideoDetail`.
-- **`pages`**: Defines the main pages like `Home`, `VideoPlayer`, and `NotFound`.
-- **`utils`**: Includes helper functions and API integration.
